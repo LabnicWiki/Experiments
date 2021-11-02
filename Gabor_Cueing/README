@@ -1,0 +1,2 @@
+Posner cueing task which requires as input subject number and saves results in pwd at each trial iteration
+gabor patches are used as bilateral stimuli and created via call of 'create_gaborim' function
